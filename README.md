@@ -1,4 +1,4 @@
-# Hi, I'm Danish 👋
+# Hi, I'm Danish Mushtaq👋
 
 ### Data Analyst | Python | SQL | Machine Learning
 
@@ -153,9 +153,9 @@ I'm particularly interested in roles where I can work with data to:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Add your LinkedIn URL]
-- 📊 Kaggle: [Add your Kaggle URL]
-- 💻 GitHub: [Add your GitHub URL]
+- 💼 LinkedIn: [https://www.linkedin.com/in/danishmushtaq788]
+- 📊 Kaggle: [https://www.kaggle.com/danish788]
+- 💻 GitHub: [https://github.com/Danishmushtaq]
 
 ---
 
